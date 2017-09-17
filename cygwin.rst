@@ -135,7 +135,8 @@ To deactivate the odkenv:
 Git and GLFS
 -------------------------------
 
-GitHub is an online service that lets individuals and organizations host git repositories while providing additional collaboration tools like issue trackers. Open Data Kit uses GitHub for its public code and documentation projects.
+GitHub is an online service that lets individuals and organizations host git repositories. It also provides additional collaboration tools like issue trackers. Open Data Kit uses GitHub for its public code and documentation projects.
+
   - Install `Git for windows <https://git-scm.com/downloads>`_.
 
 Make sure that git is installed properly by typing (git) in the cmd.
